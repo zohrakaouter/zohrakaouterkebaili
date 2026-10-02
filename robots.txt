@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://zohrakaouter.github.io/sitemap.xml
+Host: https://zohrakaouter.github.io
